@@ -13,7 +13,9 @@
 
 ```Markdown
 
-I'm studying Front-end Development in HYF because I would like to, somehow, help people in different areas of their life, also find a multicultural job environment and I found that I like pretty much teamwork
+I'm studying Front-end Development in HYF because I would like to, 
+somehow, help people in different areas of their life, also find
+a multicultural job environment and I found that I like pretty much teamwork
 
 ```
 
