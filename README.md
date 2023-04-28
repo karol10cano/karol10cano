@@ -11,8 +11,10 @@
 - `I'm 26 y/o.`
 - `I speak Spanish, English and a more or less French and Dutch.`
 
-```text
-I'm studying Front-end Development in HYF because I would like to, somehow, help people in different areas of their life, also find a multicultural job environment and I found that I like pretty much teamwork.
+```Markdown
+
+I'm studying Front-end Development in HYF because I would like to, somehow, help people in different areas of their life, also find a multicultural job environment and I found that I like pretty much teamwork
+
 ```
 
 _You can always contact me via e-mail:_
